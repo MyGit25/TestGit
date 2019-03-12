@@ -1,9 +1,14 @@
 Hello world 1234587
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is from master
 
 
 =======
 this is from iss53
+>>>>>>> iss53
+=======
+this is from iss53
+this is from iss53 (2) 
 >>>>>>> iss53
